@@ -1,0 +1,1 @@
+/Users/jcastells/Projects/Rust/i_04_4_variable_bindings_freezing/target/debug/i_04_4_variable_bindings_freezing: /Users/jcastells/Projects/Rust/i_04_4_variable_bindings_freezing/src/main.rs
